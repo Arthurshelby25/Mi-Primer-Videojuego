@@ -1,8 +1,8 @@
 # Mi-Primer-Videojuego
 <!-- README.md -->
-# Piedra, Papel o Tijeras
+# Piedra, Papel o Tijera
 
-Aplicación web interactiva construida con JavaScript moderno (ES6+), sin frameworks ni librerías. Sigue una arquitectura modular orientada a componentes.
+Aplicación web interactiva construida con JavaScript, Sigue una arquitectura modular orientada a componentes.
 
 ## Arquitectura de Carpetas
 
@@ -24,4 +24,4 @@ Aplicación web interactiva construida con JavaScript moderno (ES6+), sin framew
 1. Instala Vercel CLI o conecta tu repositorio de GitHub en el dashboard de Vercel.
 2. Si usas CLI, ejecuta el comando `vercel` en la raíz del proyecto.
 3. Acepta las configuraciones predeterminadas (Framework Preset: "Other", Build Command: "None").
-4. ¡Tu proyecto estará en producción al instante!
+
