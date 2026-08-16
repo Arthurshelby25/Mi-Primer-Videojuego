@@ -1,6 +1,6 @@
 // src/app.js
 import { getState, setState, resetGame, loadState } from './store/gameState.js';
-import { getRandomChoice, evaluateRound } from './utils/gameLogic.js';
+import { getRandomChoice, evaluateRound } from './utils/gamelogic.js';
 import { renderHeader, renderChoices, renderResult } from './components/GameUI.js';
 
 const root = document.getElementById('root');
