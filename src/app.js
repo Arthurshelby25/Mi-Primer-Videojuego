@@ -43,8 +43,7 @@ const renderApp = () => {
     root.appendChild(appContainer);
 };
 
-// Inicialización
-document.addEventListener('DOMContentLoaded', () => {
-    loadState();
-    renderApp();
-});
+
+// Inicialización directa (Segura en Módulos ES6)
+loadState();
+renderApp();
